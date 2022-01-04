@@ -8,7 +8,7 @@ function appendCat() {const newcats = [...cats, "Broom"];
     return newcats;}
 function prependCat() {const oldcats = ["Arnold", ...cats];
     return oldcats;}
-function removeLastCat() {const withoutLastCat = [cats.slice(0,2)];
+function removeLastCat() {const withoutLastCat = [cats.slice(0,-1)];
     return withoutLastCat;}
 function  removeFirstCat() {const withoutFirstCat = [cats.slice(1)];
     return withoutFirstCat;}

@@ -5,16 +5,16 @@
     "passes": 7,
     "pending": 0,
     "failures": 2,
-    "start": "2021-11-02T18:59:59.169Z",
-    "end": "2021-11-02T18:59:59.827Z",
-    "duration": 658
+    "start": "2022-01-04T22:27:05.875Z",
+    "end": "2022-01-04T22:27:07.089Z",
+    "duration": 1214
   },
   "tests": [
     {
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 5,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -23,7 +23,7 @@
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 36,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -50,7 +50,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -68,7 +68,7 @@
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -77,7 +77,7 @@
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "expected [ [ 'Milo', 'Otis' ] ] to have the same ordered members as [ 'Milo', 'Otis' ]",
@@ -102,7 +102,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ [ 'Otis', 'Garfield' ] ] to have the same ordered members as [ 'Otis', 'Garfield' ]",
@@ -130,7 +130,7 @@
       "title": "removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeLastCat() removes the last cat in the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {
         "message": "expected [ [ 'Milo', 'Otis' ] ] to have the same ordered members as [ 'Milo', 'Otis' ]",
@@ -155,7 +155,7 @@
       "title": "removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions removeFirstCat() removes the first cat from the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {
         "message": "expected [ [ 'Otis', 'Garfield' ] ] to have the same ordered members as [ 'Otis', 'Garfield' ]",
@@ -182,7 +182,7 @@
       "title": "is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "fullTitle": "index.js cats is assigned an initial value of [\"Milo\", \"Otis\", \"Garfield\"]",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 5,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -191,7 +191,7 @@
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 1,
+      "duration": 36,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -218,7 +218,7 @@
       "title": "removes the first cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveFirstCat() removes the first cat from the cats array",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
@@ -236,7 +236,7 @@
       "title": "prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions prependCat(name) prepends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "file": "/Users/AnnsMac/phase-0-intro-to-js-2-array-lab/test/indexTest.js",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "speed": "fast",
       "err": {}
